@@ -41,6 +41,10 @@ False negatives - 11.55%
 
 False positives - 5.79% 
 
+Precision - 94.1%
+
+Recall - 88.8%
+
 Average Precision - 97.66% 
 
 ### Segmented output - 
