@@ -41,4 +41,16 @@ False positives - 5.79%
 Average Precision - 97.66% 
 
 Segmented output - 
-![]()
+
+<img src="https://github.com/kartikshekhar/Bee_Segmentation/blob/main/predict_result/frame_30fps_002115_seg_map.png" alt="drawing" width="30%"/>
+
+The reds represent the abdomen of the bee and the blue represents the body of the bee.
+
+Comparison of predictions and labels - 
+
+<img src="https://github.com/kartikshekhar/Bee_Segmentation/blob/main/predict_result/frame_30fps_002115_seg_map.png" alt="drawing" width="30%"/>
+
+Representation of True positive, False positives and false negatives - 
+
+<img src="https://github.com/kartikshekhar/Bee_Segmentation/blob/main/predict_result/frame_30fps_002115_seg_map.png" alt="drawing" width="30%"/>
+
