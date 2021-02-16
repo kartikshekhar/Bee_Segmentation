@@ -36,8 +36,11 @@ The Unet model was trained with the training data as mentioned in the training_c
 ## Evaluation of the model 
 
 True Positives - 88.45% 
+
 False negatives - 11.55% 
+
 False positives - 5.79% 
+
 Average Precision - 97.66% 
 
 ### Segmented output - 
@@ -57,3 +60,8 @@ Predictions in red. Labels in yellow.
 <img src="https://github.com/kartikshekhar/Bee_Segmentation/blob/main/predict_result/frame_30fps_002115_detail.png" alt="drawing" width="40%"/>
 
 True Positive in green. False positives in yellow. False negatives in red. 
+
+## References 
+[1] Hebert Laetitia, Honeybee Segmentation and Tracking Datasets (https://groups.oist.jp/bptu/honeybee-tracking-dataset) 
+
+[2] Hebert Laetitia & Bozek Kasia, Dense Object detection 
